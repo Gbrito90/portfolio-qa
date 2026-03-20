@@ -111,6 +111,8 @@ pm.test("Status code is 404", function () {
 ### Evidência
 
 > 📸 Imagem 3 — Status 404 Not Found com teste passando
+> ![preview (2)](https://github.com/user-attachments/assets/eb9677fe-8b69-4d36-9b77-57d9165d0eff)
+
 
 ---
 
