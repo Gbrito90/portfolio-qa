@@ -75,8 +75,12 @@ pm.test("User has required fields", function () {
 
 ### Evidências
 
-> 📸 Imagem 1 — Response 200 OK com dados JSON retornados  
+> 📸 Imagem 1 — Response 200 OK com dados JSON retornados
+> ![preview](https://github.com/user-attachments/assets/5dfb1b0e-9f9f-4442-970a-b2a4e6077d27)
+
 > 📸 Imagem 2 — Scripts de teste com 3/3 testes passando
+> ![preview (1)](https://github.com/user-attachments/assets/6886b8f5-a90e-4f8f-92c8-a00ec3fa2e0c)
+
 
 ---
 
